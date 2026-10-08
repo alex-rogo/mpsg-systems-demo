@@ -1,0 +1,7 @@
+{
+    "name": "HoldTheFort.EnemyHorde.Tests",
+    "references": ["HoldTheFort.EnemyHorde", "Unity.Netcode.Runtime", "Unity.Networking.Transport", "Unity.Collections"],
+    "includePlatforms": ["Editor"],
+    "optionalUnityReferences": ["TestAssemblies"],
+    "autoReferenced": false
+}

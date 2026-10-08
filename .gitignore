@@ -1,0 +1,23 @@
+# Unity/generated output if this folder is ever placed in a Unity project
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+
+# IDE and OS files
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Raw diagnostics may contain local paths or network details
+*.log
+
