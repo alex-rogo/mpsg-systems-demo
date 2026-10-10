@@ -49,7 +49,5 @@ Start with `EnemySimulation.Update`, then follow `EnemyStateStore`, `EnemySpatia
 
 This is a source showcase, **not a standalone Unity project**. It intentionally omits scenes, prefabs, art, package caches, inventory/UI code, and most ordinary gameplay systems. The copied files are exact snapshots of the game source and retain references to omitted project types and Unity packages.
 
-## Current status and limitations
-
-The showcased architecture is implemented and tested, but still in active development. Only one numeric basic-melee archetype is configured. Navigation is direct steering with cached wall probes and a bounded breach response, not NavMesh pathfinding or a flow field. Full-model animation/LOD cost, four-player internet behavior, sustained mass deaths, and the post-interpolation 5,000-enemy remote-client experience have not yet been measured rigorously.
+These systems are still in active development.
 
