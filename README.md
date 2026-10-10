@@ -1,4 +1,4 @@
-# Hold the Fort — Large-Scale Enemy Simulation Showcase
+# Large-Scale Enemy Simulation Showcase
 
 This folder is a curated technical snapshot of **Hold the Fort**, a Unity cooperative survival/horde game being designed for as many as four players and encounters involving thousands of basic melee enemies.
 
